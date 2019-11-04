@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://glassworkny.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://glassworkny.com/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
@@ -15,8 +15,8 @@ banner-desc: # add banner description
 
 # Author settings
 author-pic: face.jpg # your photo
-author-name:Tower Sign # your name
-about-author:Tower Signs & Awnings have been designing and producing
+#author-name:Tower Sign # your name
+#about-author:Tower Signs & Awnings have been designing and producing
 
 email:TowerSigns@gmail.com # your email
 phone: (718) 335-0007/(718) 446-9000/(516) 283-5133# your pnone number
