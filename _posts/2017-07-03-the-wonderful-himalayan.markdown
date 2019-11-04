@@ -16,6 +16,5 @@ There are benefit  for having  glass door such as Aluminum Frames for your busin
 
 
 
-> Brunch hella poutine authentic farm-to-table. Stumptown craft beer lomo, heirloom single-origin coffee synth PBR&B post-ironic. <cite>- Lorem Ipsum</cite>
+> It was Great Glass Work for my business store front and my customer like it. <cite>- John Hong</cite>
 
-B
