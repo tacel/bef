@@ -1,5 +1,5 @@
 logo: # add logo name
-title:Glass Works|Glass Door & Window -Tower Sign Glass NY 
+title: Glass Works|Glass Door & Window -Tower Sign Glass NY 
 
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
