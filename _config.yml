@@ -30,7 +30,7 @@ dribbble_url:  # add url link
 facebook_url:  # add url link
 
 webmaster_verifications:
-#google:google-site-verification=FykkKijnHExVVbHMpRjC7BAZWL2YHmEcZabz_JJyxrc
+  google: FykkKijnHExVVbHMpRjC7BAZWL2YHmEcZabz_JJyxrc
 
 
 # Disqus
