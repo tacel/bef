@@ -51,7 +51,7 @@ markdown: kramdown
 #plugins_dir:
  # - jekyll-paginate
  # - jekyll-sitemap
-plugins_dir:
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
