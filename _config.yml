@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
-baseurl: "/bef" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
@@ -48,19 +48,20 @@ paginate_path: /page:num/
 
 # Build settings
 markdown: kramdown
-plugins_dir:
-  - jekyll-paginate
-  - jekyll-sitemap
+#plugins_dir:
+ # - jekyll-paginate
+ # - jekyll-sitemap
 plugins:
   - jekyll-feed
-  #- jekyll-sitemap
-  #- jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-paginate
   - jekyll-seo-tag
 gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
+  
 
 include: [_pages]
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
