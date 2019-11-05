@@ -1,10 +1,10 @@
 logo: # add logo name
-title: Glass Works|Glass Door & Window -Tower Sign Glass NY 
+title: Glass Works | Glass Door & Glass Window -Tower Sign Glass NY 
 
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://glassworkny.com" # the base hostname & protocol for your site, e.g. http://example.com
-description: > Glass works for store ,office ,and business 
+description: > Glass works for store front ,office ,and business building glass works
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
 banner-title: # add banner title
