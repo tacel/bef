@@ -51,16 +51,16 @@ markdown: kramdown
 #plugins_dir:
  # - jekyll-paginate
  # - jekyll-sitemap
-plugins:
+plugins_dir:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
-gems:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-seo-tag
+#gems:
+ # - jekyll-paginate
+  #- jekyll-sitemap
+ # - jekyll-feed
+ # - jekyll-seo-tag
   
 
 include: [_pages]
