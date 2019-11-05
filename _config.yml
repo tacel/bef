@@ -1,0 +1,63 @@
+logo: # add logo name
+title: Glass Works | Glass Door & Glass Window -Tower Sign Glass NY 
+
+permalink: ':title/'
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://glassworkny.com" # the base hostname & protocol for your site, e.g. http://example.com
+description:  Glass works for store front ,office ,and business building glass works
+# Banner settings
+video: mountains.mp4 # add banner video. Add your video file to the folder video
+banner-title: # add banner title
+banner-desc: # add banner description
+
+# Author settings
+author-pic: face.jpg # your photo
+author-name: Tower Signs
+about-author: Tower Signs
+email: TowerSigns@gmail.com # your email
+phone: (718) 335-0007/(718) 446-9000/(516) 283-5133
+website: http://glassworkny.com
+
+# Social link
+google_url:    # add url link
+twitter_url:   # add url link
+instagram_url: # add url link
+pinterest_url: # add url link
+dribbble_url:  # add url link
+facebook_url:  # add url link
+
+webmaster_verifications:
+  google: FykkKijnHExVVbHMpRjC7BAZWL2YHmEcZabz_JJyxrc
+
+# Disqus
+discus_identifier: mr-brown # add your discus identifier.  Not your username.  To get this, register your forum here with a unique ID: https://disqus.com/admin/create/
+
+# Newsletter
+mailchimp: # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+
+# Tracker
+analytics:
+
+# Paginate
+paginate: 12
+paginate_path: /page:num/
+
+# Build settings
+markdown: kramdown
+#plugins_dir:
+ # - jekyll-paginate
+ # - jekyll-sitemap
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+#gems:
+ # - jekyll-paginate
+  #- jekyll-sitemap
+ # - jekyll-feed
+ # - jekyll-seo-tag
+  
+
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
