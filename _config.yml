@@ -1,12 +1,11 @@
 logo: # add logo name
 title: Bef - Enjoy Freedom
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ Glass works - Glass Door ,Sliding Glass Door ,Glass door decals, and Glass Windows For 
+Offices glass door , Store Front Glass door , And Building Glass    - Tower Signs
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://glassworkny.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
@@ -15,11 +14,11 @@ banner-desc: # add banner description
 
 # Author settings
 author-pic: face.jpg # your photo
-author-name: # your name
-about-author: # about author
-email: your-email@domain.com # your email
-phone: (496)-169-6557 # your pnone number
-website: https://dwayne.example.com # you website
+author-name: Tower Signs
+about-author: Tower Signs
+email: TowerSigns@gmail.com # your email
+phone: (718) 335-0007/(718) 446-9000/(516) 283-5133
+website: http://glassworkny.com
 
 # Social link
 google_url:    # add url link
