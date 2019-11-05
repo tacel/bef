@@ -1,8 +1,6 @@
 logo: # add logo name
 title:Glass Works|Glass Door & Window -Tower Sign Glass NY 
-description: 
- Glass works - Glass Door ,Sliding Glass Door ,Glass door decals, and Glass Windows For 
-Offices glass door , Store Front Glass door , And Building Glass    - Tower Signs
+description: Glass works - Glass Door ,Sliding Glass Door ,Glass door decals, and Glass Windows For Offices glass door , Store Front Glass door , And Building Glass    - Tower Signs
 #permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://glassworkny.com" # the base hostname & protocol for your site, e.g. http://example.com
